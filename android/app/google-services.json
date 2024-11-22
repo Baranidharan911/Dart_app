@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "988578521519",
+    "firebase_url": "https://techwiz-app-ec16f-default-rtdb.firebaseio.com",
+    "project_id": "techwiz-app-ec16f",
+    "storage_bucket": "techwiz-app-ec16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988578521519:android:0a91d6fa38946039890f5a",
+        "android_client_info": {
+          "package_name": "com.example.techwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988578521519-cr7lvbdopa95v08eaq1ftmpe5m3c4bcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techwiz",
+            "certificate_hash": "8624391199f6f285c5fb03466ee3c35b0a8ba8c9"
+          }
+        },
+        {
+          "client_id": "988578521519-guahi0ss4fckuaq2igiv1fk2bufnqfvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techwiz",
+            "certificate_hash": "b46956f6061b5bca9b3181a1ab3fae7fb786079d"
+          }
+        },
+        {
+          "client_id": "988578521519-m85ttdg04gre5r73n4nls4ql0q2khu1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techwiz",
+            "certificate_hash": "01bb5870d96f0f260f8c6ef0bd211785467007c6"
+          }
+        },
+        {
+          "client_id": "988578521519-oh0347700ioghgl5e5jehnhml8mkkhoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techwiz",
+            "certificate_hash": "311289d292ee851de481f81c22dd09ba3e9ea3d9"
+          }
+        },
+        {
+          "client_id": "988578521519-1gbtjd2f2i37ck8viu58veubi197m9g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOkWCue55_QD3ETFzXh90W10wms5jNRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988578521519-1gbtjd2f2i37ck8viu58veubi197m9g7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988578521519-c0526t3e09eb9nfhe4r1na5iad0f802n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.techwiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

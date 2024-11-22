@@ -1,0 +1,4 @@
+<resources>
+    <string name="default_notification_channel_id">default_channel</string>
+    <string name="google_maps_key">AIzaSyDuOkWCue55_QD3ETFzXh90W10wms5jNRE</string> <!-- Replace with your actual Google Maps API key -->
+</resources>
